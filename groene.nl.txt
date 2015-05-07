@@ -1,0 +1,5 @@
+# No matching files found, you can write yours here
+
+body: //div[@class='main-article-content']
+
+test_url: http://www.groene.nl/artikel/een-klap-van-de-molen
