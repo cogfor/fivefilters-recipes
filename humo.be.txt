@@ -1,0 +1,8 @@
+# No matching files found, you can write yours here
+
+parser: html5lib
+body: //div[@class='content']
+strip_id_or_class: ft
+strip_id_or_class: otherArticles 
+
+test_url: http://http://www.humo.be/humo-archief/309839/dossier-straffeloosheid-het-is-onmogelijk-te-zeggen-hoeveel-veroordeelden-hun-celstraf-echt-uitzitten
