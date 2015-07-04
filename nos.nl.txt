@@ -1,0 +1,7 @@
+# NOS
+
+date: //abbr[@class='page-inserted']
+body: //div[@id='article-content']
+strip_id_or_class: btw-share
+
+test_url: http://nos.nl/artikel/722759-aanslag-op-koenders-verijdeld.html
