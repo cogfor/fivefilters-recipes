@@ -1,0 +1,5 @@
+# No matching files found, you can write yours here
+
+body: //div[@class='block article body']//div[@class='block-content']/p[1]
+
+test_url: http://www.nu.nl/opmerkelijk/3927809/gouverneur-in-vs-schrapt-strafblad-eigen-zoon.html
